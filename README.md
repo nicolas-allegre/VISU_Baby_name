@@ -8,9 +8,11 @@ Ce dépôt est dans le cadre du MS BGD/IA pour le projet de visualisation sur le
 
 ## **Composition :**
 
-Les visualisations sont disponibles à [VISU_Projet_Baby_name_GroupU.ipynb](notebooks/VISU_Projet_Baby_name_GroupU.ipynb).
+Les visualisations sont disponibles à
+- [VISU_Projet_Baby_name_GroupU.ipynb](notebooks/VISU_Projet_Baby_name_GroupU.ipynb).
 
-Et nos travaux préliminaires d'élaboration des visualisations à [VISU_Projet_01_visualisation_possible.pdf](notebooks/VISU_Projet_01_visualisation_possible.pdf).
+Et nos travaux préliminaires d'élaboration des visualisations à
+- [VISU_Projet_01_visualisation_possible.pdf](notebooks/VISU_Projet_01_visualisation_possible.pdf).
 
 ## **Étudiants :**
 
