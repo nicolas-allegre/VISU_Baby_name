@@ -1,0 +1,9 @@
+# Modules standards :
+matplotlib
+numpy
+pandas
+tabulate
+
+# Modules pour la visualisation :
+altair
+geopandas

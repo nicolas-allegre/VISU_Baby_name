@@ -1,0 +1,66 @@
+[build-system]
+requires = ["setuptools"]
+
+[tool.setuptools.dynamic]
+version = {attr = "__version__"}
+# readme = {file = ["README.txt", "USAGE.txt"], content-type = "text/plain"} #If content-type is not given, "text/x-rst" is used by default.
+dependencies = {file = "requirements.txt"}
+
+[tool.setuptools.packages.find]
+where = ["src"]  # list of folders that contain the packages (["."] by default)
+# include = ["mypackage*"]  # ["*"] by default
+# exclude = ["mypackage.tests*"]  # empty by default
+# namespaces = false  # true by default
+
+[project]
+name = "Projet Baby name"
+authors = [
+    {name = "François-Xavier Morel", email = "francois-xavier.morel@telecom-paris.fr"},
+    {name = "Camille Ishac", email = "camille.ishac@telecom-paris.fr"},
+    {name = "Nicolas Allègre", email = "nicolas.allegre@telecom-paris.fr"},
+    {name = "Romain Donné", email = "romain.donne@telecom-paris.fr"},
+    {name = "Aude De Fornel", email = "aude.defornel@telecom-paris.fr"},
+]
+# maintainers = [
+#     {name = "...", email = "..."}
+# ]
+description = "Projet Baby name du cours MS IA/BGD IGR204_VISUALISATION"  # single ligne
+readme = {file = "README.md"}
+license = {text = "EUPL 1.2"}
+classifiers = [ #for pypi
+    # How mature is this project? Common values are
+    #   3 - Alpha
+    #   4 - Beta
+    #   5 - Production/Stable
+    "Development Status :: 3 - Alpha",
+
+    # Indicate who your project is intended for
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+
+    # Pick your license as you wish (see also "license" above)
+    "License :: OSI Approved :: European Union Public Licence 1.2 (EUPL 1.2)",
+
+    # Specify the Python versions you support here.
+    "Programming Language :: Python :: 3",
+]
+keywords = ["IA", "data", "visualisation"]
+requires-python = "^3.12"
+# dependencies = [
+#     "requests",',
+# ]
+dynamic = ["version", "dependencies"]
+
+[project.urls]
+# Homepage = "https://example.com"
+Sujet = "https://perso.telecom-paristech.fr/eagan/class/igr204/baby-names"
+Repository = "https://github.com/nicolas-allegre/VISU_Baby_name.git"
+# "Bug Tracker" = "https://github.com/me/spam/issues"
+# Changelog = "https://github.com/me/spam/blob/master/CHANGELOG.md"
+
+[tool.pytest.ini_options]
+pythonpath = [
+  "src"
+]
+
+[tool.coverage.run]
+relative_files = true
