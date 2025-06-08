@@ -4,7 +4,7 @@
 
 ## **Description :**
 
-Ce dépôt est pour le projet visualisation sur les prénoms donnés aux enfants en France de 1900 à 2020.
+Ce dépôt est dans le cadre du MS BGD/IA pour le projet de visualisation sur les prénoms donnés aux enfants en France de 1900 à 2020.
 
 ## **Composition :**
 
