@@ -19,7 +19,7 @@ Et nos travaux préliminaires d'élaboration des visualisations à
 | Name               | GitHub Profile                              |
 |--------------------|---------------------------------------------|
 | **Nicolas ALLÈGRE**| [nicolas-allegre](https://github.com/nicolas-allegre) |
-| **Romain DONNÉ**   | [...](https://github.com/...) |
+| **Romain DONNÉ**   | [romainDonne22](https://github.com/romainDonne22) |
 | **Aude De FORNEL**   | [audedef](https://github.com/audedef) |
 | **François-Xavier MOREL**   | [tulipe0212](https://github.com/tulipe0212) |
 | **Camille ISHAC**   | [...](https://github.com/...) |
