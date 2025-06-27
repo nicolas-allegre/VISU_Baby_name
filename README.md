@@ -9,7 +9,8 @@ Ce dépôt est dans le cadre du MS BGD/IA pour le projet de visualisation sur le
 ## **Composition :**
 
 Les visualisations sont disponibles à
-- [VISU_Projet_Baby_name_GroupU.ipynb](notebooks/VISU_Projet_Baby_name_GroupU.ipynb).
+- v1 : [VISU_Projet_Baby_name_GroupU.ipynb](notebooks/VISU_Projet_Baby_name_GroupU.ipynb).
+- version finale : [VISU_Projet_Baby_name_GroupU_final.ipynb](notebooks/VISU_Projet_Baby_name_GroupU_final.ipynb).
 
 Et nos travaux préliminaires d'élaboration des visualisations à
 - [VISU_Projet_01_visualisation_possible.pdf](notebooks/VISU_Projet_01_visualisation_possible.pdf).
@@ -22,4 +23,4 @@ Et nos travaux préliminaires d'élaboration des visualisations à
 | **Romain DONNÉ**   | [romainDonne22](https://github.com/romainDonne22) |
 | **Aude De FORNEL**   | [audedef](https://github.com/audedef) |
 | **François-Xavier MOREL**   | [tulipe0212](https://github.com/tulipe0212) |
-| **Camille ISHAC**   | [...](https://github.com/...) |
+| **Camille ISHAC**   | [CIS31](https://github.com/CIS31) |
